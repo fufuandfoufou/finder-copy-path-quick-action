@@ -8,6 +8,8 @@
 
 A tiny macOS Finder Quick Action that lets you right-click any selected file or folder and copy its absolute path to the clipboard.
 
+![Demo](assets/demo.svg)
+
 ### Features
 - Works in Finder right-click menu
 - Supports files and folders
@@ -73,6 +75,8 @@ MIT
 ## 中文说明
 
 这是一个很小的 macOS Finder 快速操作（Quick Action）工具。安装后，你可以在 Finder 里选中文件或文件夹，右键后直接把它们的**绝对路径**复制到剪贴板。
+
+![演示图](assets/demo.svg)
 
 ### 功能
 - 集成到 Finder 右键菜单
