@@ -1,5 +1,9 @@
 # Finder Copy Path Quick Action
 
+![Release](https://img.shields.io/github/v/release/fufuandfoufou/finder-copy-path-quick-action)
+![License](https://img.shields.io/github/license/fufuandfoufou/finder-copy-path-quick-action)
+![Platform](https://img.shields.io/badge/platform-macOS-black)
+
 [中文](#中文说明) | [English](#english)
 
 ---
@@ -9,6 +13,8 @@
 A tiny macOS Finder Quick Action that lets you right-click any selected file or folder and copy its absolute path to the clipboard.
 
 ![Demo](assets/demo.svg)
+
+Animated demo placeholder: `assets/demo.gif`
 
 ### Features
 - Works in Finder right-click menu
@@ -24,6 +30,11 @@ A tiny macOS Finder Quick Action that lets you right-click any selected file or 
 git clone https://github.com/fufuandfoufou/finder-copy-path-quick-action.git
 cd finder-copy-path-quick-action
 bash scripts/install_quick_action.sh
+```
+
+#### Chinese menu version
+```bash
+bash scripts/install_quick_action_zh.sh
 ```
 
 #### Option 2: Download ZIP
@@ -78,6 +89,8 @@ MIT
 
 ![演示图](assets/demo.svg)
 
+动图占位文件：`assets/demo.gif`
+
 ### 功能
 - 集成到 Finder 右键菜单
 - 支持文件和文件夹
@@ -92,6 +105,11 @@ MIT
 git clone https://github.com/fufuandfoufou/finder-copy-path-quick-action.git
 cd finder-copy-path-quick-action
 bash scripts/install_quick_action.sh
+```
+
+#### 中文菜单版本安装
+```bash
+bash scripts/install_quick_action_zh.sh
 ```
 
 #### 方式二：下载 ZIP 安装
